@@ -95,6 +95,9 @@ body{
         opacity: 1;
     }
 }
+div[role="alert"]{
+    z-index: 10;
+}
 #btn{
     position: fixed;
     margin: 55px 50px;
